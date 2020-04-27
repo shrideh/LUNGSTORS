@@ -1,0 +1,10 @@
+--------------------
+LUNGSTORS
+Blower based Open Source Mechanical Ventilator
+--------------------
+
+Release 1.0.0, 27.04.2020.
+
+- Initial release
+
+--------------------
