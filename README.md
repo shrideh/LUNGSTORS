@@ -1,7 +1,7 @@
 **Full project presentation available at: https://protors.co/lungstors/**
 
 # LUNGSTORS
-**Blower based Open Source Mechanical Ventilator**
+**Blower based Open Source Medical Ventilator**
 
 <p align="center">
   <img src="https://protors.co/lungstors/img/logo-full.svg" width="400">
