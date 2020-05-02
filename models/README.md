@@ -6,7 +6,7 @@ All of technical documentation given here is made using FreeCAD. Using the FreeC
 ## BLOWER
 In folder `compressor_assembly` 3D models of our blower are available.
 <p align="center">
-  <img src="compressor_assembly/images/lungstors_blower_6.png" width="600">
+  <img src="compressor_assembly/images/lungstors_blower_7.png" width="600">
 </p>
 
 ## SERVO VALVE
