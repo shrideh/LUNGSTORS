@@ -4,7 +4,8 @@
 **Blower based Open Source Medical Ventilator**
 
 <p align="center">
-  <img src="https://protors.co/lungstors/img/logo-full.svg" width="400">
+  <a href="https://protors.co/lungstors/"><img src="https://protors.co/lungstors/img/lungstors.png" width="600"></a>
+  <a href="https://protors.co/lungstors/"><img src="https://protors.co/lungstors/img/logo-full.svg" width="400"></a>
 </p>
 
 ## License
